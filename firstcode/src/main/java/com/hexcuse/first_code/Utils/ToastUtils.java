@@ -14,13 +14,13 @@ public class ToastUtils {
 
 	private static Toast mToast = null;
 
-	private static void showToast(Context context, String content) {
+	public static void showToast(Context context, String content) {
 		if (mToast == null) {
 			mToast = Toast.makeText(context, content, Toast.LENGTH_SHORT);
-			mToast.show();
 		} else {
 			mToast.setText(content);
 		}
+		mToast.show();
 	}
 
 
