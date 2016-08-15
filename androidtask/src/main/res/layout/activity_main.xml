@@ -10,9 +10,18 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.hexcuse.androidtask.MainActivity">
 
-    <TextView
-        android:id="@+id/tv"
-        android:layout_width="wrap_content"
+    <Button
+        android:id="@+id/btn"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="@string/app_name"/>
+
+    <TextView
+        android:layout_below="@+id/btn"
+        android:id="@+id/tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="20dp"
         android:text="Hello World!"/>
 </RelativeLayout>
