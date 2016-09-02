@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textOrange">#F28039</color>
+    <color name="textLightOrange">#FB8840</color>
+    <color name="textGray">#9D9D9D</color>
+    <color name="textBlack">#2B2B2B</color>
+    <color name="textPink">#F96267</color>
+    <color name="textYellow">#FFB902</color>
+    <color name="textHint">#E5E5E5</color>
+    <color name="app_bg">#ddd</color>
+    <color name="app_bar">@android:color/darker_gray</color>
+    <color name="line">#e5e5e5</color>
+    <color name="c_gray_b">#6a6a6a</color>
+    <color name="c_gray_c">#363636</color>
+    <color name="c_black">#191919</color>
+    <color name="c_white">#ffffff</color>
+    <color name="c_green">#18c601</color>
+    <color name="pink">#FEE9D6</color>
+<color name="blue">#24ADF8</color>
+    <color name="focus_gray">#9d9d9d</color>
+    <color name="unfocus_gray">#e5e5e5</color>
+    <color name="text_seach">#FEE9D6</color>
+    <color name="division_line">#f2f2f2</color>
+    <color name="bg_root">#eeeeee</color>
+    <color name="bg_button_ok">#f3813b</color>
+    <color name="bg_button_ok_focused">#ff5500</color>
+    <color name="tv_char_bg">#FFE9D5</color>
+
+    <color name="payment_bg">#f2f2f2</color>
+    <color name="payment_title">#2b2b2b</color>
+    <color name="color_e0e0e0">#e0e0e0</color>
+
+    <color name="color_2b2b2b">#2b2b2b</color>
+    <color name="color_fb8840">#fb8840</color>
+    <color name="color_9d9d9d">#9d9d9d</color>
+    <color name="color_D9D9D9">#D9D9D9</color>
+
+
+    <color name="white_translucent">#AAFFFFFF</color>
+    <color name="black_translucent">#B0000000</color>
+
+    <color name="border">@color/white_translucent</color>
+    <color name="guideline">@color/white_translucent</color>
+    <color name="corner">@android:color/white</color>
+    <color name="surrounding_area">@color/black_translucent</color>
+
+
+    <color name="red">#FF0000</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="purple">#762CFB</color>
+    <color name="gray">#CCCCCC</color>
+    <color name="menu_top">#1C2224</color>
+    <color name="menu_item_bg">#1F2628</color>
+    <color name="home_balances_start">#C1597C</color>
+    <color name="home_balances_end">#C1597C</color>
+    <color name="home_savings_start">#80C5C5</color>
+    <color name="home_savings_end">#2E667F</color>
+    <color name="home_loans_start">#B4A1C1</color>
+    <color name="home_loans_end">#8C6DD3</color>
+    <color name="home_loans">#B4A1C1</color>
+    <color name="home_btn_balances">#D48BA4</color>
+    <color name="home_btn_savings">#87B2BD</color>
+    <color name="home_btn_loans">#BAA7DC</color>
+    <color name="text_line">#696c6d</color>
+    <color name="text_color">#bcbdbd</color>
+    <color name="send_money_orange">#ff9900</color>
+</resources>
